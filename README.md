@@ -1,0 +1,1 @@
+This is the Official metadata repository for Jeff Dosh Coin (JDC), it repository contains the canonical JSON metadata definition for JDC, including identity, descriptive attributes, and narrative elements (Song, Trashion, Death, Dream) that shape the story.

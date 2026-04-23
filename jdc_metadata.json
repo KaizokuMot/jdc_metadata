@@ -1,0 +1,41 @@
+
+{
+  "name": "Jeff Dosh Coin",
+  "symbol": "JDC",
+  "description": "Jeff Dosh Coin (JDC) is a story-driven meme asset on TON, emerging from the interplay of Song, Trashion, Death, and Dream — a living yarn in motion. Designed to evolve with its community, JDC blends narrative, culture, and value exchange into a single circulating system.",
+  "image": "https://res.cloudinary.com/dnko3bvt0/image/upload/v1776825871/jeffdoshecoin_qyfoi2.png",
+  "decimals": 9,
+
+  "attributes": [
+    {
+      "trait_type": "Yarn: Song",
+      "value": "Origin signal, voice, frequency"
+    },
+    {
+      "trait_type": "Yarn: Trashion",
+      "value": "Reclaiming value from waste"
+    },
+    {
+      "trait_type": "Yarn: Death",
+      "value": "Endings, decay, transformation"
+    },
+    {
+      "trait_type": "Yarn: Dream",
+      "value": "Emergence, imagination, future states"
+    },
+    {
+      "trait_type": "State",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Version",
+      "value": "0.1-beta"
+    }
+  ],
+
+  "external_url": "https://aimementoring.com",
+  "socials": {
+    "telegram": "https://www.youtube.com/aimementoring"
+  }
+
+}
